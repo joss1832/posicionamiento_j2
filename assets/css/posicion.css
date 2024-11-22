@@ -1,0 +1,19 @@
+.gato{
+    position: relative; /* */
+    
+    top: 190px; 
+    
+}
+
+.gorrito{
+    position: absolute; /* */
+    width: 20%;
+    bottom: 500px; /*altura desde abajo*/
+    left: 100px; 
+}
+
+
+
+.contenedor {
+    display: flex; /*permite mover y alinear los contenedores  */
+}
