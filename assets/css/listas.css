@@ -1,0 +1,32 @@
+.nav-bar{
+    background-color: #333;
+    left: 0px;
+    position: fixed;
+    padding: 10px 0px; /* margen interno 10 pixel arriba y abajo, cero pixel izquierda derecha*/
+    top: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+.nav-bar li {
+    display: inline-block; /*hace que los elementos que son en bloque sean en linea*/
+    margin-right: 25px;
+}
+
+.nav-bar a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none; /*quita el subrayado*/
+}
+
+.nav-bar a:hover{
+    text-decoration: underline; /*cuando el raton se acerca se pone el subrayado*/
+}
+
+body{
+    margin-top: 80px;
+}
+
+h3{
+    text-align: center;
+}
