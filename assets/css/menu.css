@@ -13,7 +13,7 @@
 
 body{
     background-image: url(../img/fondo_menu.jpg);
-    
+    background-repeat: no-repeat;
     width: 100%;
     
     
