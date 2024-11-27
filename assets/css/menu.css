@@ -13,8 +13,9 @@
 
 body{
     background-image: url(../img/fondo_menu.jpg);
-    background-repeat: no-repeat;
+    
     width: 100%;
+    
     
 }
 
@@ -24,6 +25,7 @@ body{
     color: aliceblue;
     top: 200px;
     font-size: 30px;
+    display: flex;
 }
 
 body{
