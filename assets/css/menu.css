@@ -14,7 +14,7 @@
 body{
     background-image: url(../img/fondo_menu.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    width: 100%;
     
 }
 
