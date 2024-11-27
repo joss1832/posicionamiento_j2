@@ -13,7 +13,7 @@
 
 body{
     background-image: url(../img/fondo_menu.jpg);
-    background-repeat: no-repeat;
+    
     width: 100%;
     
     
@@ -21,7 +21,7 @@ body{
 
 .titulo_menu{
     position: relative;
-    left: 600px;
+    left: 50%;
     color: aliceblue;
     top: 200px;
     font-size: 30px;
